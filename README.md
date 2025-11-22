@@ -17,3 +17,7 @@ Each reel supports:
 npm install
 expo install expo-av expo-linear-gradient
 expo start -c
+```
+
+
+For running project in real device you can install the **Expo Go** app and then scan QR code that is showing in terminal while executing project.
